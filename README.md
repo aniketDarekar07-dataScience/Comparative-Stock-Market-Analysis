@@ -10,7 +10,7 @@ This project analyzes and compares the stock performance of:
 
 - HDFC Bank  
 - Reliance Industries  
-- TCS  
+- TCS 
 - Infosys  
 
 The objective is to understand stock behavior using data-driven techniques such as EDA, return analysis, and risk measurement.
