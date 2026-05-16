@@ -58,17 +58,21 @@ The objective is to understand stock behavior using data-driven techniques such 
 
 <img width="1391" height="702" alt="Screenshot 2026-05-12 011804" src="https://github.com/user-attachments/assets/1caebeae-0d90-420c-9b60-18215d3d5638" />
 
+
 3.Volume Trend:
 
 <img width="1332" height="682" alt="Screenshot 2026-05-12 011834" src="https://github.com/user-attachments/assets/0026b369-dbcf-41a1-a6ca-3a065eaf5fdf" />
 
+
 4.Stock Price Trend Comparison:
 
-<img width="519" height="242" alt="Screenshot 2026-05-12 012124" src="https://github.com/user-attachments/assets/a5e7ee97-0f9a-44c5-a137-874948d030b5" />
+<img width="1178" height="546" alt="image" src="https://github.com/user-attachments/assets/7c0a17da-4162-463a-b938-938aab6666bf" />
+
 
 5.Correlation Heatmap:
 
 <img width="391" height="253" alt="Screenshot 2026-05-17 002214" src="https://github.com/user-attachments/assets/7cc0e59f-de52-47cc-a2e2-234abbab5e72" />
+
 
 6.Returns:
 
