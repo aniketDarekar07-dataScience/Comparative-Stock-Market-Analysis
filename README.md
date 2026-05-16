@@ -50,9 +50,10 @@ The objective is to understand stock behavior using data-driven techniques such 
 
  📊 Output Screenshots:
  
-** 1.Cumulative Returns Over Time:**
+1.Cumulative Returns Over Time:
  
 <img width="1283" height="623" alt="image" src="https://github.com/user-attachments/assets/006dba5d-3555-4374-abcb-b386649b55f1" />
+
 
 
 2.Stock Price Trend Comparison:
@@ -61,9 +62,11 @@ The objective is to understand stock behavior using data-driven techniques such 
 
 
 
+
 3.Volume Trend:
 
 <img width="1332" height="682" alt="Screenshot 2026-05-12 011834" src="https://github.com/user-attachments/assets/0026b369-dbcf-41a1-a6ca-3a065eaf5fdf" />
+
 
 
 
@@ -79,7 +82,7 @@ The objective is to understand stock behavior using data-driven techniques such 
 
 
 
-6.Returns:
+6.Overall Positive Stock Returns:
 
 <img width="1193" height="650" alt="image" src="https://github.com/user-attachments/assets/724352bb-c5c2-41c1-9253-29c2716ed6e7" />
 
