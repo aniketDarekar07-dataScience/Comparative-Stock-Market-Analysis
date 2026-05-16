@@ -72,12 +72,12 @@ The objective is to understand stock behavior using data-driven techniques such 
 
 5.Correlation Heatmap:
 
-<img width="391" height="253" alt="Screenshot 2026-05-17 002214" src="https://github.com/user-attachments/assets/7cc0e59f-de52-47cc-a2e2-234abbab5e72" />
+<img width="1125" height="547" alt="image" src="https://github.com/user-attachments/assets/9769c408-b99a-4ba2-b906-7e37e450e5e2" />
 
 
 6.Returns:
 
-<img width="388" height="289" alt="Screenshot 2026-05-12 012140" src="https://github.com/user-attachments/assets/2a5b43a1-4e22-4f58-a794-30a4e1510614" />
+<img width="1193" height="650" alt="image" src="https://github.com/user-attachments/assets/724352bb-c5c2-41c1-9253-29c2716ed6e7" />
 
 ---
 
